@@ -1,5 +1,12 @@
 # spatial-crime-analysis
 Spatial crime analysis of Chicago using Python, including data cleaning, exploratory analysis, heatmaps, and clustering to identify high-crime areas.
+python
+data-analysis
+machine-learning
+spatial-analysis
+data-visualization
+pandas
+folium
 # Spatial Crime Analysis
 
 This project analyzes crime data from Chicago to identify patterns in crime distribution across time and location.
